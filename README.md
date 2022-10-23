@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Jack</a></h1>
-<h3 align="center">A D365 developer from The Netherlands &#127470;&#127475</h3>
+<h3 align="center">A D365 developer from The Netherlands &#127475;&#127473;</h3>
 
 <p align="left"> <img src="https://www.dynamicserpconsultancy.nl" alt="JackDekker" /> </p>
 
