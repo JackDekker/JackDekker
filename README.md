@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://www.dynamicserpconsultancy.nl" alt="JackDekker" /> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 - 🤝 I’m available for freelancing.
 
 - 📝 I regularly write articles on [https://www.jackdekker.nl](https://www.jackdekker.nl)
