@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A D365 developer from The Netherlands &#127475;&#127473;</h3>
 
-<p align="left"> <img src="https://www.dynamicserpconsultancy.nl" alt="JackDekker" /> </p>
-
 - 🤝 I’m available for freelancing.
 
 - 📝 I regularly write articles on [https://www.jackdekker.nl](https://www.jackdekker.nl)
